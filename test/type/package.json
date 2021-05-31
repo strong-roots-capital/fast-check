@@ -8,7 +8,7 @@
   "dependencies": {},
   "devDependencies": {
     "fast-check": "*",
-    "tsd": "^0.13.1"
+    "tsd": "^0.16.0"
   },
   "author": "Nicolas DUBIEN <github@dubien.org>",
   "license": "MIT",
